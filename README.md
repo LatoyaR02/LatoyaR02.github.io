@@ -10,9 +10,9 @@ Generate Color Dots https://replit.com/@PPPython23-24/Lab-1-Smile-11185456681421
 CMU Graphics https://replit.com/@PPPython23-24/63-CMU-graphics-111854566814215
 Sophomore Year:
 Spring Capstone Project https://replit.com/@WDp7-8/Spring-Capstone-Project-WDp7-8-3
-Make a Recipe 
-Make a Halloween Card 
-Tell a Story 
+Make a Recipe https://replit.com/@WDp7-8/Learners-Make-a-Recipe-LatoyaRichardso
+Make a Halloween Card https://replit.com/@WDp7-8/Learners-Make-A-Halloween-Card-LatoyaRichardso
+Tell a Story https://replit.com/@WDp7-8/Learners-Tell-A-Story-LatoyaRichardso
 Poster Board
 Make a Robot 
 Ghost School 
